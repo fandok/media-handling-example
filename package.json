@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@outofaxis/react-dropzone-uploader": "^3.1.2",
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/get-file": "^3.12.0",
+    "pdfjs-dist": "^3.4.120",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-modal-image": "^2.6.0",

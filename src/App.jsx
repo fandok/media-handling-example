@@ -1,5 +1,6 @@
 import ImageViewer from "./ImageViewer";
 import MyUploader from "./MyUploader";
+import PdfViewer from "./PdfViewer";
 import VideoPlayer from "./VideoPlayer";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <MyUploader />
       <VideoPlayer />
       <ImageViewer />
+      <PdfViewer />
     </>
   );
 }
